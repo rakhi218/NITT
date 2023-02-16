@@ -267,7 +267,8 @@ h6 {
     display: none;
   }
   .buy-tickets {
-    margin: 0 15px 0 0;
+    margin: 5px 0px 0px 5px;
+    width: 80%
   }
 }
 
